@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+input/
+output/
+processed/
+test-data/
